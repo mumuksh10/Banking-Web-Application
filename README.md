@@ -6,3 +6,6 @@ Pre made accounts that you can use -:
    *password* - 1111
 2) *username* - jd
    *password* - 2222
+   
+   
+Link to the project - https://mumuksh10.github.io/Banking-Web-Application/
